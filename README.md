@@ -1,6 +1,12 @@
 ### Micropanel Admin Theme Plugin
 ### Last updated: August 2013
 
+![Screen 1](https://raw.githubusercontent.com/tsvetant/micropanel-wordpress/master/Screenshots/1.png)
+![Screen 2](https://raw.githubusercontent.com/tsvetant/micropanel-wordpress/master/Screenshots/2.png)
+![Screen 3](https://raw.githubusercontent.com/tsvetant/micropanel-wordpress/master/Screenshots/3.png)
+![Screen 4](https://raw.githubusercontent.com/tsvetant/micropanel-wordpress/master/Screenshots/4.png)
+![Screen 5](https://raw.githubusercontent.com/tsvetant/micropanel-wordpress/master/Screenshots/5.png)
+
 ### Description
 
 **NEW** Now with the launch of v2 of our Micropanel there are a lot of changes, but the thing we've kept is our main concept - same minimalistic and classy outfit. The coding part is now optimized better looking and removed some of the old options for the new one that are going to replace them. The Micropanel is now compatible with the latest WordPress **3.8.x** version !  
